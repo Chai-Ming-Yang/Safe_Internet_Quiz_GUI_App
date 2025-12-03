@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "App.Main",
+            "projectName": "Safe Internet_3ea4f58b"
+        },
+        {
+            "type": "java",
+            "name": "Navigator",
+            "request": "launch",
+            "mainClass": "App.Navigator",
+            "projectName": "Safe Internet_3ea4f58b"
+        },
+        {
+            "type": "java",
+            "name": "DAOLeaderBoard",
+            "request": "launch",
+            "mainClass": "DataAccessObject.DAOLeaderBoard",
+            "projectName": "Safe Internet_3ea4f58b"
+        },
+        {
+            "type": "java",
+            "name": "DAOUser",
+            "request": "launch",
+            "mainClass": "DataAccessObject.DAOUser",
+            "projectName": "Safe Internet_3ea4f58b"
+        },
+        {
+            "type": "java",
+            "name": "GUILeaderBoard",
+            "request": "launch",
+            "mainClass": "GraphicalUserInterface.GUILeaderBoard",
+            "projectName": "Safe Internet_3ea4f58b"
+        },
+        {
+            "type": "java",
+            "name": "GUILearningModule",
+            "request": "launch",
+            "mainClass": "GraphicalUserInterface.GUILearningModule",
+            "projectName": "Safe Internet_3ea4f58b"
+        },
+        {
+            "type": "java",
+            "name": "GUILogin",
+            "request": "launch",
+            "mainClass": "GraphicalUserInterface.GUILogin",
+            "projectName": "Safe Internet_3ea4f58b"
+        },
+        {
+            "type": "java",
+            "name": "GUIMainMenu",
+            "request": "launch",
+            "mainClass": "GraphicalUserInterface.GUIMainMenu",
+            "projectName": "Safe Internet_3ea4f58b"
+        },
+        {
+            "type": "java",
+            "name": "GUIQuiz",
+            "request": "launch",
+            "mainClass": "GraphicalUserInterface.GUIQuiz",
+            "projectName": "Safe Internet_3ea4f58b"
+        },
+        {
+            "type": "java",
+            "name": "LearningModule",
+            "request": "launch",
+            "mainClass": "LearningModules.LearningModule",
+            "projectName": "Safe Internet_3ea4f58b"
+        },
+        {
+            "type": "java",
+            "name": "Quiz",
+            "request": "launch",
+            "mainClass": "QuizModule.Quiz",
+            "projectName": "Safe Internet_3ea4f58b"
+        }
+    ]
+}

@@ -1,0 +1,308 @@
+{
+  "questions_easy": [
+    {
+      "question": "What should a strong password include?\nA. Your birthday\nB. Only lowercase letters\nC. A mix of letters, numbers, and symbols\nD. Your pet’s name",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "You should never share your password with anyone, not even your best friend.",
+      "answer": "True",
+      "type": "truefalse"
+    },
+    {
+      "question": "What is malware?\nA. A new software update\nB. A game for kids\nC. A type of software designed to harm your device or steal information\nD. A safe file you download from school",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "Which one is a sign of a phishing email?\nA. Your name is spelled correctly\nB. Professional grammar\nC. Urgent request for your password\nD. Email from your contact list",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "It is okay to click pop-up ads if they say you won a prize.",
+      "answer": "False",
+      "type": "truefalse"
+    },
+    {
+      "question": "What confirms that a website is secure?\nA. Red warning sign\nB. Lock icon and 'https' in address bar\nC. A colorful background\nD. Long website name",
+      "answer": "B",
+      "type": "mcq"
+    },
+    {
+      "question": "Which of the following is a good internet safety practice?\nA. Using the same password everywhere\nB. Posting your location online\nC. Ignoring updates\nD. Enabling two-factor authentication",
+      "answer": "D",
+      "type": "mcq"
+    },
+    {
+      "question": "Cyberbullying is not a serious issue and can be ignored.",
+      "answer": "False",
+      "type": "truefalse"
+    },
+    {
+      "question": "Which device setting helps protect your data if your phone is lost?\nA. Bluetooth\nB. Airplane mode\nC. Screen lock/password\nD. Brightness control",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "It's safe to install apps from any website you find online.",
+      "answer": "False",
+      "type": "truefalse"
+    },
+    {
+      "question": "How can you protect your passwords?\nA. Share them with close friends\nB. Write them on paper\nC. Use a password manager\nD. Use simple passwords you can remember",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "Phishing usually tries to:\nA. Help fix your device\nB. Offer fun videos\nC. Trick you into giving personal info\nD. Improve your system speed",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "You should click on links in emails even if you don’t recognize the sender.",
+      "answer": "False",
+      "type": "truefalse"
+    },
+    {
+      "question": "Where should you install apps from?\nA. Random websites\nB. Social media\nC. Trusted sources like Google Play or Apple App Store\nD. Pop-up ads",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "Which of the following passwords is strongest?\nA. john123\nB. Password1\nC. Jk#7x@Pz!2lq\nD. 123456",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "Sharing your daily routine on social media is safe.",
+      "answer": "False",
+      "type": "truefalse"
+    },
+    {
+      "question": "What should you do if you receive a threatening message online?\nA. Reply to the person\nB. Share it with friends\nC. Ignore and delete it\nD. Save evidence and report it",
+      "answer": "D",
+      "type": "mcq"
+    },
+    {
+      "question": "A good example of netiquette is:\nA. Using ALL CAPS to make your point\nB. Posting without thinking\nC. Respecting others’ opinions online\nD. Oversharing your location",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "You should always think before you post something online.",
+      "answer": "True",
+      "type": "truefalse"
+    },
+    {
+      "question": "What does 2FA stand for?\nA. Two-Face Authentication\nB. Two-Factor Authentication\nC. Two-Fire Access\nD. Second-Firewall Access",
+      "answer": "B",
+      "type": "mcq"
+    }
+  ],
+  "questions_normal": [
+    {
+    "question": "What is one way to protect your social media accounts?\nA. Share your login with your friends\nB. Leave your profile public\nC. Enable two-factor authentication\nD. Post your address",
+    "answer": "C",
+    "type": "mcq"
+    },
+    {
+    "question": "You should accept all friend requests to grow your followers.",
+    "answer": "False",
+    "type": "truefalse"
+    },
+    {
+    "question": "If someone sends threatening messages online, what is that called?\nA. Pranking\nB. Cyberbullying\nC. Spam messaging\nD. Online debate",
+    "answer": "B",
+    "type": "mcq"
+    },
+    {
+    "question": "Which is the safest way to connect to public Wi-Fi?\nA. Use a VPN\nB. Share files while connected\nC. Log in to your bank account\nD. Disable your firewall",
+    "answer": "A",
+    "type": "mcq"
+    },
+    {
+    "question": "You should ignore app permission requests and allow all of them.",
+    "answer": "False",
+    "type": "truefalse"
+    },
+    {
+    "question": "Which of the following might be a scam?\nA. Job offer requiring an upfront fee\nB. Email from your university with your name\nC. Password reset request you made\nD. Friend sending a funny meme",
+    "answer": "A",
+    "type": "mcq"
+    },
+    {
+    "question": "Never download attachments from unknown senders.",
+    "answer": "True",
+    "type": "truefalse"
+    },
+    {
+    "question": "What does the padlock icon in the address bar usually mean?\nA. Site is under maintenance\nB. Site is verified and encrypted\nC. You need a subscription\nD. Site is not safe",
+    "answer": "B",
+    "type": "mcq"
+    },
+    {
+    "question": "It’s okay to share personal details in a private group chat.",
+    "answer": "False",
+    "type": "truefalse"
+    },
+    {
+    "question": "Using fake identities or impersonating others online is considered a form of:\nA. Entertainment\nB. Fraud\nC. Free speech\nD. Privacy",
+    "answer": "B",
+    "type": "mcq"
+    },
+    {
+    "question": "What should you do before downloading any app?\nA. Make sure it's trending\nB. Ask a friend\nC. Read reviews and check permissions\nD. Install it immediately",
+    "answer": "C",
+    "type": "mcq"
+    },
+    {
+    "question": "Which type of information should you avoid sharing on social media?\nA. Favorite movies\nB. Daily routines and location\nC. Funny memes\nD. Public news articles",
+    "answer": "B",
+    "type": "mcq"
+    },
+    {
+    "question": "All messages that look official are always trustworthy.",
+    "answer": "False",
+    "type": "truefalse"
+    },
+    {
+    "question": "What should you do if an app asks for unnecessary permissions?\nA. Allow it anyway\nB. Ignore it\nC. Deny permissions or uninstall it\nD. Share it with friends",
+    "answer": "C",
+    "type": "mcq"
+    },
+    {
+    "question": "Which of the following is an example of a phishing tactic?\nA. Asking for feedback\nB. A message that says 'Click here to reset your password now!'\nC. Birthday greetings\nD. Funny meme videos",
+    "answer": "B",
+    "type": "mcq"
+    },
+    {
+    "question": "Enabling privacy settings on social media can help protect your personal information.",
+    "answer": "True",
+    "type": "truefalse"
+    },
+    {
+    "question": "Why should you limit personal info in your social media bio?\nA. To be mysterious\nB. For better SEO\nC. To prevent identity theft and scams\nD. To save space",
+    "answer": "C",
+    "type": "mcq"
+    },
+    {
+    "question": "Which of the following can be a red flag in a message?\nA. Friendly tone\nB. Urgent requests for personal info\nC. Proper grammar\nD. Known sender name",
+    "answer": "B",
+    "type": "mcq"
+    },
+    {
+    "question": "Private messages can still be screenshotted and shared by others.",
+    "answer": "True",
+    "type": "truefalse"
+    },
+    {
+    "question": "What’s a smart thing to do if you're unsure about an online message or email?\nA. Respond quickly\nB. Share with friends\nC. Verify it through official sources\nD. Delete your account",
+    "answer": "C",
+    "type": "mcq"
+    }
+  ],
+  "questions_hard": [
+    {
+      "question": "What is the main purpose of ransomware?\nA. Create memes\nB. Lock your data until payment is made\nC. Speed up your computer\nD. Clean your system",
+      "answer": "B",
+      "type": "mcq"
+    },
+    {
+      "question": "All HTTPS websites are guaranteed to be safe.",
+      "answer": "False",
+      "type": "truefalse"
+    },
+    {
+      "question": "A __________ attack tricks users into revealing sensitive information through fake websites or messages.\nA. Malware\nB. DDoS\nC. Phishing\nD. Spoofing",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "Which of the following is NOT a safe practice?\nA. Using a password manager\nB. Keeping software updated\nC. Using public Wi-Fi to access banking\nD. Enabling 2FA",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "Antivirus software alone is enough to fully protect your system.",
+      "answer": "False",
+      "type": "truefalse"
+    },
+    {
+      "question": "A hacker can gain access to your device by exploiting system __________.\nA. Features\nB. Updates\nC. Vulnerabilities\nD. Downloads",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "Which of the following is a type of social engineering?\nA. Firewall\nB. Phishing\nC. VPN\nD. Encryption",
+      "answer": "B",
+      "type": "mcq"
+    },
+    {
+      "question": "Keeping your operating system and software updated helps prevent security breaches.",
+      "answer": "True",
+      "type": "truefalse"
+    },
+    {
+      "question": "What is the role of a firewall?\nA. Display ads\nB. Speed up gaming\nC. Block unauthorized access\nD. Store backups",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "Before entering login credentials, verify that the website URL is __________.\nA. Short\nB. Secure\nC. Correct\nD. Ending in '.org'",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "What is the main risk of using the same password across multiple sites?\nA. It's easy to remember\nB. You'll get locked out\nC. One breach can expose all your accounts\nD. Slower login speed",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "A zero-day vulnerability is:\nA. An outdated software bug\nB. A known bug with a patch\nC. An unknown flaw exploited before a fix is available\nD. A type of ransomware",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "Multi-factor authentication (MFA) includes:\nA. Password + Username\nB. Password + Captcha\nC. Password + Additional form of verification\nD. Two passwords",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "Which kind of malware locks you out of your files until a ransom is paid?\nA. Spyware\nB. Trojan\nC. Adware\nD. Ransomware",
+      "answer": "D",
+      "type": "mcq"
+    },
+    {
+      "question": "The dark web is accessible using:\nA. Chrome\nB. VPN\nC. Incognito Mode\nD. Special browsers like Tor",
+      "answer": "D",
+      "type": "mcq"
+    },
+    {
+      "question": "Clicking suspicious links can install:\nA. Fun apps\nB. Secure plugins\nC. Malware or spyware\nD. Antivirus updates",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "Which of the following is true about spyware?\nA. It protects your files\nB. It boosts performance\nC. It secretly collects your information\nD. It helps clean your device",
+      "answer": "C",
+      "type": "mcq"
+    },
+    {
+      "question": "A phishing email might pretend to be from:\nA. Your school or bank\nB. A music artist\nC. A game developer\nD. A celebrity fan club",
+      "answer": "A",
+      "type": "mcq"
+    },
+    {
+      "question": "Using outdated antivirus software is just as good as using the latest version.",
+      "answer": "False",
+      "type": "truefalse"
+    },
+    {
+      "question": "What should you do if you receive a suspicious message asking for money?\nA. Send a small amount first\nB. Ask a friend to check it\nC. Report it and do not respond\nD. Try to call the number",
+      "answer": "C",
+      "type": "mcq"
+    }
+  ]
+}

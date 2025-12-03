@@ -1,0 +1,54 @@
+{
+  "pages": {
+    "1": {
+      "title": "What is Internet Safety?",
+      "text": "Internet safety means protecting your personal information and avoiding online threats while using websites, apps, and digital services.\nStaying cyber safe helps you protect your identity, devices, and privacy from cybercriminals.",
+      "image": "padlock_over_computer_screen.jpg"
+    },
+    "2": {
+      "title": "Protect Passwords",
+      "text": "Strong passwords are your first defense. Use a mix of uppercase, lowercase, numbers, and symbols. Avoid using names or birthdays. Use a password manager to remember them.\n\nExample of a strong password: Jk#7x@Pz!2lq\nWeak password: john123",
+      "image": "password_strength_meter.png"
+    },
+    "3": {
+      "title": "Beware of Phishing",
+      "text": "Phishing is when attackers trick you into giving personal info by pretending to be someone else (e.g., your bank or school).\n\nWatch out for:\n- Misspelled URLs\n- Urgent or threatening language\n- Suspicious attachments\n\nTip: Never click unknown links or download random files.",
+      "image": "fake_email_side_by_side_with_real.png"
+    },
+    "4": {
+      "title": "Cyberbullying",
+      "text": "Cyberbullying includes hurtful messages, harassment, and threats online.\n\nIf you or someone you know is being bullied:\n- Do not respond\n- Save evidence\n- Block the bully\n- Report it to trusted adults or platforms",
+      "image": "phone_with_harmful_messages_and_report_button.png"
+    },
+    "5": {
+      "title": "Secure Social Media",
+      "text": "Keep your profiles private. Avoid sharing:\n- Your location\n- Daily routines\n- Personal details like school or workplace\n\nUpdate your privacy settings and be selective with friend requests.",
+      "image": "profile_settings_with_privacy_toggle_switches.jpg"
+    },
+    "6": {
+      "title": "Avoid Malware",
+      "text": "Malware is software designed to harm your device. It can steal info or damage files.\n\nAvoid malware by:\n- Not downloading pirated software\n- Avoiding pop-up ads\n- Using antivirus software\n- Keeping your system updated",
+      "image": "computer_with_warning_sign_and_antivirus_shield.jpg"
+    },
+    "7": {
+      "title": "Safe Browsing",
+      "text": "Look for the lock symbol in the address bar before entering any personal info.\n\nAvoid unsafe websites, especially those with:\n- Too many pop-ups\n- 'You have won!' messages\n- Sketchy downloads\n\nUse reputable browsers and enable security settings.",
+      "image": "browser_address_bar_with_https_and_lock_icon.jpg"
+    },
+    "8": {
+      "title": "Two-Factor Auth (2FA)",
+      "text": "2FA adds a second step when logging in. A code usually sent to your phone or an app.\n\nEven if someone has your password, 2FA can stop them from getting in.\n\nAlways enable 2FA on email, banking, and social media accounts.",
+      "image": "phone_receiving_2fa_code_next_to_login_screen.jpg"
+    },
+    "9": {
+      "title": "Spotting Online Scams",
+      "text": "Scammers use messages or fake ads to trick you into sending money or info.\n\nCommon scams include:\n- Fake job offers\n- 'You have won' lotteries\n- Tech support imposters\n\nAlways verify before trusting. If it is too good to be true, it probably is.",
+      "image": "fake_lottery_email_or_job_scam_text.jpg"
+    },
+    "10": {
+      "title": "Online Etiquette",
+      "text": "Being kind and respectful online matters. Follow these tips:\n- Think before you post\n- Don't overshare\n- Avoid using ALL CAPS\n- Respect others' opinions\n\nDigital footprints last. Post responsibly.",
+      "image": "smiley_face_on_social_media_comments_no_hate_speech.jpg"
+    }
+  }
+}
