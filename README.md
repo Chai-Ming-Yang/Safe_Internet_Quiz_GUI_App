@@ -7,7 +7,7 @@ Developed as part of the **Java Programming course (TMF2954)** at **Universiti M
 > The following contributors were part of the original development team and are credited for their valuable contributions.
 
 ## 👥 Contributors
-* @jordanlcr (Lee Chong Ren / Jordan) — Collaborator
+* @jordanlcr (Lee Chong Ren) — Collaborator
 * @LeafStardust — Collaborator
 * @Vecrex — Collaborator
 * Chai-Ming-Yang — Lead Developer & Project Manager
