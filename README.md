@@ -8,7 +8,7 @@ Developed as part of the **Java Programming course (TMF2954)** at **Universiti M
 
 ## 👥 Contributors
 * @jordanlcr (Lee Chong Ren) — Collaborator
-* @LeafStardust — Collaborator
+* @LeafStardust (Bryce Yap) — Collaborator
 * @Vecrex — Collaborator
 * Chai-Ming-Yang — Lead Developer & Project Manager
 
